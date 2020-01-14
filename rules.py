@@ -15,6 +15,37 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 	""" Takes uid and optional assessment parameters. Save the
 	customized assessment scheme to database."""
 	
+	# input bundle
+	bundle = input('请输入数字1至5选择套餐：1.酱油 2.实习 3.正式 4.资深 5.特招, \
+	其余输入视为默认输入,enter进入下一步')
+	
+	# prevent null input
+	if bundle:
+		if bundle == '1':
+			min_size_adopted = 2048
+			salary_ratio = 0.4
+			comment = '酱油保种员'	
+			print ('您选择了酱油保种员')
+		elif bundle == '2':
+			min_size_adopted = 4096
+			salary_ratio = 0.6
+			comment = '实习保种员'	
+			print ('您选择了实习保种员')			
+		elif bundle == '3':
+			min_size_adopted = 6144
+			salary_ratio = 0.8
+			comment = '正式保种员'
+			print ('您选择了正式保种员')
+		elif bundle == '4':
+			min_size_adopted = 8192
+			comment = '资深保种员'
+			print ('您选择了资深保种员')
+		elif bundle == '5':
+			min_size_adopted = 10240
+			salary_ratio = 0.8
+			comment = '特招保种员'
+			print ('您选择了特招保种员')
+	
 	# create a set of exitsted uid
 	existed_uid = set()
 	
@@ -43,6 +74,9 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 	'备注：', comment)
 	
 	confirm = str(input("Enter 'yes' if to proceed, otherwise exit"))
+	
+
+
 	
     # exit if not confirmed
 	if confirm != 'yes':
