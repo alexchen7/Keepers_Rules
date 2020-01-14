@@ -15,9 +15,9 @@ def convert_float(val):
 
 def edit_rules():
     
-    go_on = 1
+    go_on = '1'
     
-    while go_on == 1:
+    while go_on == '1':
     
     
         uid = int(input('请输入需要更改的uid:'))
@@ -36,7 +36,4 @@ def edit_rules():
         
         df.to_csv('rules', index=False)
         
-        go_on = input('继续更改？输入1回车继续，否则任意输入...')
-        if go_on.isdigit():
-            go_on = int(go_on)
-    
+        go_on = input('继续更改？输入1回车继续，否则任意输入...')    
