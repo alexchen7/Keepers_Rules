@@ -6,7 +6,7 @@ min_num_adopted=100, min_seedingtime = 12.5, \
 adoption_number_ratio = '1 1 adoption_number_ratio_function', \
 adoption_size_ratio = '1 1 adoption_size_ratio_function', \
 adoption_bonus_ratio = '1 0.8 0.6 0.3', \
-code_official_group = '1 6 9 18 22 28 31 34', \
+code_official_group = '1 6 9 18 22 28 31 34 35', \
 code_invalid_category = '402', salary_ratio = 1, \
 size_for_salary_ratio = 1, addedtime_for_salary_ratio = 1, \
 seedingtime_for_salary_ratio = 1, seeders_for_salary_ratio = 1, \
