@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv
 
-def write_rule(uid, min_size_torrent=0.99, min_size_adopted=4000, \
+def write_rule(uid='0', min_size_torrent=0.99, min_size_adopted=4000, \
 min_num_adopted=100, min_seedingtime = 12.5, \
 adoption_number_ratio = '1 1 adoption_number_ratio_function', \
 adoption_size_ratio = '1 1 adoption_size_ratio_function', \
@@ -14,6 +14,7 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 
 	""" Takes uid and optional assessment parameters. Save the
 	customized assessment scheme to database."""
+	uid = input("请输入uid:")
 	
 	# input bundle
 	bundle = input('请输入数字1至5选择套餐：1.酱油 2.实习 3.正式 4.资深 5.特招, \
@@ -129,6 +130,7 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 					'最多允许同伴数': max_seeders_for_salary, \
 					'最少第一认领占体积比': min_size_first_adoption_ratio, \
 					'备注': comment})
+					print ('成功设置{}的规则'.format(uid))
 					
 				else:
 					print ('错误！该id已设置规则!')
@@ -153,6 +155,10 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 				'工资做种人数系数': seeders_for_salary_ratio, \
 				'最多允许同伴数': max_seeders_for_salary, \
 				'最少第一认领占体积比': min_size_first_adoption_ratio, \
-				'备注': comment})		
+				'备注': comment})	
+				print ('成功设置{}的规则'.format(uid))	
 			else:
 				print ('错误！',uid,'该id已设置规则!')
+                
+if __name__ == "__main__":
+    write_rule()
