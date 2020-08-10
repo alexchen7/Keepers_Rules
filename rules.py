@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 import csv
+import os
+# change the current directory to file directory
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 def write_rule(uid='0', min_size_torrent=0.99, min_size_adopted=4000, \
 min_num_adopted=100, min_seedingtime = 12.5, \
