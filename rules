@@ -123,7 +123,7 @@
 92697,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,资深保种员
 92369,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
 91010,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.4,1,1,1,1,0,0.5,酱油保种员
-92974,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
+92974,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,特招保种员已滿一年故改為8tb
 91985,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.4,1,1,1,1,0,0.5,酱油保种员
 92485,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,资深保种员
 89833,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员一个月完成任务否则ban最多三个月完成正式保种员否则ban现在20200510
@@ -150,10 +150,13 @@
 94415,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 93708,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
 75949,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员
-93985,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
 95488,0.99,6144,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,正式保种员
-94325,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
 96210,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 91316,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.4,1,1,1,1,0,0.5,酱油保种员
 95953,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 96063,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
+93985,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员
+94325,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员
+96492,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
+95589,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
+96246,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员
