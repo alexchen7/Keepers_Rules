@@ -139,7 +139,7 @@
 75779,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
 94157,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 94263,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
-93536,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
+93536,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,特招保种员因本人要求改係數為1
 70374,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,酱油保种员2020年12月初改爲6TB 2021年2月改爲8TB
 94318,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 88122,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,特招保种员因本人原有號故把工資係數改爲1
