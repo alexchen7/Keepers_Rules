@@ -32,7 +32,6 @@
 87866,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
 92063,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,10TB直通车 2020年前保种员
 77705,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
-90348,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
 26468,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
 88433,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
 35986,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 1 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1.0,1,1,1,1,0,0.5,2020年前保种员
@@ -195,7 +194,6 @@
 99585,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,特招保种员
 95252,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员
 93361,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.4,1,1,1,1,0,0.5,酱油保种员
-59349,0.99,6144,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,正式保种员
 98722,0.99,6144,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.8,1,1,1,1,0,0.5,正式保种员
 92461,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
 95400,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
@@ -211,3 +209,8 @@
 100964,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
 96995,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
 99972,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
+91049,0.99,2048,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.4,1,1,1,1,0,0.5,酱油保种员
+90348,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
+98068,0.99,4096,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,0.6,1,1,1,1,0,0.5,实习保种员
+97593,0.99,10240,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,33 30 27 26 25 24,0000,0.33,1,1,1,1,0,0.5,非官方10TB
+59349,0.99,8192,100,12.5,1 1 adoption_number_ratio_function,1 1 adoption_size_ratio_function,1 0.8 0.6 0.3,1 6 9 18 22 28 31 34 35 36,402,1,1,1,1,1,0,0.5,资深保种员

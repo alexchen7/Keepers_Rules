@@ -20,8 +20,8 @@ max_seeders_for_salary = 0, min_size_first_adoption_ratio = 0.5 ,comment = ''):
 	uid = input("请输入uid:")
 
 	# input bundle
-	bundle = input('请输入数字1至5选择套餐：1.酱油 2.实习 3.正式 4.资深 5.特招, \
-	6.非官方10TB 其余输入视为默认输入,enter进入下一步')
+	bundle = input('请输入数字1至5选择套餐：1.酱油 2.实习 3.正式 4.资深 5.特招 \
+6.非官方10TB 其余输入视为默认输入,enter进入下一步')
 
 	# prevent null input
 	if bundle:
